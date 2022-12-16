@@ -47,25 +47,26 @@
     <img height="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman" />
     <img alt="figma"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg' width="50">
   </div>
-  &nbsp;
- ## Currently Learning:
+  
+## Currently Learning:
   <div align="left">
     <img alt="typescript"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg' width="50">
     <img alt="python"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width="50">
     <img alt="solidity"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg' width="50">
   </div>
-  &nbsp;
- ## Connect with me:       
-  
-  <a href="https://github.com/PeshwariNaan">
-    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>&nbsp;&nbsp;  
-  <a href="mailto:jdbrowne76@proton.me">
-    <img src="https://img.shields.io/badge/protonmail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />   
-  </a>&nbsp;&nbsp;
-  <a href="https://www.frontendmentor.io/profile/PeshwariNaan" target="_blank" rel="noopener noreferrer" title="Frontend Mentor"> 
-    <img alt="Frontend Mentor" src="https://www.frontendmentor.io/static/images/logo-mobile.svg" width="45">
-  </a>
+ 
+## Connect with me:       
+  <p>
+    <a href="https://github.com/PeshwariNaan">
+      <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>&nbsp;&nbsp;  
+    <a href="mailto:jdbrowne76@proton.me">
+      <img src="https://img.shields.io/badge/protonmail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />   
+    </a>&nbsp;&nbsp;
+    <a href="https://www.frontendmentor.io/profile/PeshwariNaan" target="_blank" rel="noopener noreferrer" title="Frontend Mentor"> 
+      <img alt="Frontend Mentor" src="https://www.frontendmentor.io/static/images/logo-mobile.svg" width="45">
+    </a>
+  </p>
 
  
   
