@@ -10,8 +10,7 @@
 <p align='left'></p>
 
 
- 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peshwarinaan&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=ffffff&border_color=21262d&border_radius=15)
+
  
 ## Current Skills and tools:
 
