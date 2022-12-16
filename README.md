@@ -45,14 +45,14 @@
     <img height="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express" />
     <img height="50" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux" />  
     <img height="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman" />
-    <img alt="figma"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/figma-original.svg' width="50">
+    <img alt="figma"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg' width="50">
   </div>
   
  ## Currently Learning:
   <div align="left">
-    <img alt="typescritp"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/typescript-original.svg' width="50">
-    <img alt="python"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/python-original.svg' width="50">
-    <img alt="solidity"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/solidity-original.svg' width="50">
+    <img alt="typescript"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg' width="50">
+    <img alt="python"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width="50">
+    <img alt="solidity"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg' width="50">
   </div>
   
   ## Connect with me:    
@@ -68,7 +68,7 @@
     <a href="https://www.frontendmentor.io/profile/PeshwariNaan" target="_blank" rel="noopener noreferrer" title="Frontend Mentor"> 
       <img alt="Frontend Mentor" src="https://www.frontendmentor.io/static/images/logo-mobile.svg" width="45">
     </a>
-</p>
+  </p>
  
   
 <!---
