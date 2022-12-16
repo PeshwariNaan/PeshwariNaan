@@ -48,6 +48,8 @@
     <img alt="figma"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg' width="50">
   </div>
   
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peshwarinaan&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=ffffff&border_color=21262d&border_radius=15)
+  
 ## Currently Learning:
   <div align="left">
     <img alt="typescript"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg' width="50">
