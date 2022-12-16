@@ -1,4 +1,6 @@
-<img src="https://github.com/peshwarinaan/peshwarinaan/blob/main/complete-branding-banner/complete-branding-banner.png" width=900, height=1200 />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150"/>
+</p>
 <h1 align='center'>
   J.D. Browne 
 </h1>
