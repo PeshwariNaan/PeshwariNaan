@@ -9,7 +9,7 @@
 <p align='left'>Former mechanical engineer and teacher pursuing my passion in front-end and full stack web development.</p>
 <p align='left'></p>
 
-
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peshwarinaan&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=ffffff&    border_color=21262d&border_radius=15)
 ## Current Skills and tools:
 
 #### Languages and Frontend Tools:
@@ -70,7 +70,7 @@
   </p>
   
  ## Stats:
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peshwarinaan&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=ffffff&    border_color=21262d&border_radius=15)
+
    ![JD's GitHub stats](https://github-readme-stats.vercel.app/api?username=peshwarinaan&show_icons=true&theme=radical)
    <br>
 
