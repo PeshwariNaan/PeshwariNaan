@@ -1,5 +1,5 @@
 <h1 align='center'>
-  J.D. Browne (Joshua) 
+  J.D. Browne 
 </h1>
 
 <p align='center'>
@@ -11,11 +11,11 @@
 <p align='left'>Former mechanical engineer and teacher pursuing my passion in front-end and full stack web development.</p>
 <p align='left'></p>
 
-
+<br>
 ## Current Skills and tools:
 
 #### Languages and Frontend Tools:
-
+<br>
 <div align="left">
   <img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" />
   <img height="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React" />
@@ -26,7 +26,7 @@
   </div> 
   
 #### Databases and Cloud Hosting:
-
+<br>
   <div align="left">
     <img alt="heroku"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg' width="50">
     <img height="50" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" title="Firebase" />
@@ -36,7 +36,7 @@
   </div>
   
 #### Development Tools:
-<br><br>
+<br>
   <div align="left">
     <img height="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual           Studio Code" /> 
     <img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" />
@@ -73,7 +73,7 @@
  ## Stats:
    ![JD's GitHub stats](https://github-readme-stats.vercel.app/api?username=peshwarinaan&show_icons=true&theme=radical)
    <br>
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peshwarinaan&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=ffffff&    border_color=21262d&border_radius=15)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peshwarinaan&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=ffffff&    border_color=21262d&border_radius=15)
 
  
   
