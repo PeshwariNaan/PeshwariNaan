@@ -69,6 +69,10 @@
       <img alt="Frontend Mentor" src="https://www.frontendmentor.io/static/images/logo-mobile.svg" width="45">
     </a>
   </p>
+  
+ ## Stats:
+   ![JD's GitHub stats](https://github-readme-stats.vercel.app/api?username=peshwarinaan&show_icons=true&theme=radical)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peshwarinaan&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=ffffff&    border_color=21262d&border_radius=15)
 
  
   
