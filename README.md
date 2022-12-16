@@ -28,7 +28,7 @@
 #### Databases and Cloud Hosting:
 
   <div align="left">
-  <img alt="heroku"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/heroku-original.svg' width="50">
+    <img alt="heroku"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg' width="50">
     <img height="50" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" title="Firebase" />
     <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50">    
     <img height="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub" />
@@ -47,28 +47,26 @@
     <img height="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman" />
     <img alt="figma"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg' width="50">
   </div>
-  
+  &nbsp;
  ## Currently Learning:
   <div align="left">
     <img alt="typescript"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg' width="50">
     <img alt="python"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width="50">
     <img alt="solidity"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg' width="50">
   </div>
+  &nbsp;
+ ## Connect with me:       
   
-  ## Connect with me:    
-    
-  <p align='center'>
-    <a href="[https://github.com/PeshwariNaan)">
-      <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>&nbsp;&nbsp;
- 
-    <a href="mailto:jdbrowne76@proton.me">
-      <img src="https://img.shields.io/badge/protonmail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />   
-     </a>&nbsp;&nbsp;
-    <a href="https://www.frontendmentor.io/profile/PeshwariNaan" target="_blank" rel="noopener noreferrer" title="Frontend Mentor"> 
-      <img alt="Frontend Mentor" src="https://www.frontendmentor.io/static/images/logo-mobile.svg" width="45">
-    </a>
-  </p>
+  <a href="https://github.com/PeshwariNaan">
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>&nbsp;&nbsp;  
+  <a href="mailto:jdbrowne76@proton.me">
+    <img src="https://img.shields.io/badge/protonmail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />   
+  </a>&nbsp;&nbsp;
+  <a href="https://www.frontendmentor.io/profile/PeshwariNaan" target="_blank" rel="noopener noreferrer" title="Frontend Mentor"> 
+    <img alt="Frontend Mentor" src="https://www.frontendmentor.io/static/images/logo-mobile.svg" width="45">
+  </a>
+
  
   
 <!---
