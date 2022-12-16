@@ -6,17 +6,16 @@
   Frontend and Full Stack Web Developer
 </p>
 
-
-
 <p align='left'>Former mechanical engineer and teacher pursuing my passion in front-end and full stack web development.</p>
 <p align='left'></p>
 
-<br>
+
 ## Current Skills and tools:
 
 #### Languages and Frontend Tools:
-<br>
+
 <div align="left">
+  <br>
   <img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" />
   <img height="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React" />
   <img width="50" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/styled-components-icon.svg" alt="Styled Components Icon" />  
@@ -71,9 +70,10 @@
   </p>
   
  ## Stats:
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peshwarinaan&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=ffffff&    border_color=21262d&border_radius=15)
    ![JD's GitHub stats](https://github-readme-stats.vercel.app/api?username=peshwarinaan&show_icons=true&theme=radical)
    <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peshwarinaan&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=ffffff&    border_color=21262d&border_radius=15)
+
 
  
   
