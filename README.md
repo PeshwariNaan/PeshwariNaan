@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=1000"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=2000"/>
 </p>
 <h1 align='center'>
   J.D. Browne 
