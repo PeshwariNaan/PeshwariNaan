@@ -54,13 +54,14 @@
   
  
   
-## Currently Learning:
+#### Currently Learning:
   <div align="left">
     <img alt="typescript"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg' width="50">
     <img alt="python"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width="50">
     <img alt="solidity"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg' width="50">
   </div>
- 
+ <br>
+ <br>
 <h1 align='center'>
   Connect with me 
 </h1>     
@@ -75,12 +76,13 @@
       <img alt="Frontend Mentor" src="https://www.frontendmentor.io/static/images/logo-mobile.svg" width="45">
     </a>
   </p>
-  
+  <br>
  ## Stats:
-
+<div align='center'>
    ![JD's GitHub stats](https://github-readme-stats.vercel.app/api?username=peshwarinaan&show_icons=true&theme=radical)
    
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peshwarinaan&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=ffffff&border_color=21262d&border_radius=15)
+ </div>
    <br>
 
 
