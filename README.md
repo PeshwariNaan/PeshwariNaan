@@ -61,7 +61,9 @@
     <img alt="solidity"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg' width="50">
   </div>
  
-## Connect with me:       
+<h1 align='center'>
+  Connect with me 
+</h1>     
   <p align="center">
     <a href="https://github.com/PeshwariNaan">
       <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
