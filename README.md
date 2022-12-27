@@ -6,10 +6,10 @@
 </h1>
 
 <p align='center'>
-  Frontend and Full Stack Web Developer
+  Web Developer
 </p>
 
-<p align='left'>Former mechanical engineer and teacher pursuing my passion in front-end and full stack web development.</p>
+<p align='left'></p>
 <p align='left'></p>
 
 
