@@ -5,14 +5,15 @@
   J.D. Browne 
 </h1>
 
-<p align='center'>
+<!-- <p align='center'>
   Web Developer
-</p>
+</p> -->
 Hi, I'm **Josh** 👋 <br/>
 A former Mechanical Engineer and self taught Web Developer. <br/>
 With a strong focus on JavaScript and React.js, I build, deploy and maintain Front-end and Fullstack apps for proffessional and personal projects. 
+<br/><br/>
 
-
+One of my first and still favorite proffesional projects was for a talented artist (Trish Cassen). The repo is private but you can view the site [HERE](www.trishcassen.com)
 <p align='left'></p>
 <p align='left'></p>
 
