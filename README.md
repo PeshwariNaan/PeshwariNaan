@@ -8,9 +8,10 @@
 <!-- <p align='center'>
   Web Developer
 </p> -->
-Hi, I'm **Josh** 👋 <br/>
+Hi, I'm **Josh** 👋 
+<br/><br/>
 A former Mechanical Engineer and self taught Web Developer. <br/>
-With a strong focus on JavaScript and React.js, I build, deploy and maintain Front-end and Fullstack apps for proffessional and personal projects utilizing a range of tools and tech.  
+With a strong focus on JavaScript and React.js, I build, deploy and maintain Front-end and Fullstack apps for professional and personal projects utilizing a range of tools and tech.  
 <br/><br/>
 
 *   👀 I’m interested in Web3 and the future of Web Development in relation to how AI and low/no code tech will change the current development landscape.
