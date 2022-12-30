@@ -13,9 +13,12 @@ A former Mechanical Engineer and self taught Web Developer. <br/>
 With a strong focus on JavaScript and React.js, I build, deploy and maintain Front-end and Fullstack apps for proffessional and personal projects utilizing a range of tools and tech.  
 <br/><br/>
 
-- 🍕 Pizza is a food group.
+*   👀 I’m interested in Web3 and the future of Web Development in relation to how AI and low/no code tech will change the current development landscape.
+*   🧠  I'm learning Typescript and advanced backend and api development with Express, Mongoose and Node.js.
+*   ✉️  You can contact me at [jdbrowne76@proton.me](mailto:jdbrowne76@proton.me)
+*   🍕 Pizza is a food group.
 
-One of my first and still favorite proffesional projects was for a talented artist (Trish Cassen). The repo is private but you can view the site at 
+One of my first and still favorite professional projects was for a talented artist (Trish Cassen). The repo is private but you can view the site at 
 [www.trishcassen.com](https://www.trishcassen.com/)
 <p align='left'></p>
 <p align='left'></p>
