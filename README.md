@@ -10,7 +10,7 @@
 </p> -->
 Hi, I'm **Josh** 👋 
 <br/><br/>
-🔥 A former Mechanical Engineer and self taught Web Developer. <br/>
+A former Mechanical Engineer and self taught Web Developer. <br/>
 With a strong focus on JavaScript and React.js, I build, deploy and maintain Front-end and Fullstack apps for professional and personal projects utilizing a range of tools and tech.  
 <br/><br/>
 
@@ -75,7 +75,7 @@ One of my first and still favorite professional projects was for a talented arti
  <br>
  <br>
 <h1 align='center'>
-  Connect with me 
+  🔥 Connect with me 
 </h1>     
   <p align="center">
     <a href="https://github.com/PeshwariNaan">
