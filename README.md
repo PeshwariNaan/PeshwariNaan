@@ -13,6 +13,8 @@ A former Mechanical Engineer and self taught Web Developer. <br/>
 With a strong focus on JavaScript and React.js, I build, deploy and maintain Front-end and Fullstack apps for proffessional and personal projects utilizing a range of tools and tech.  
 <br/><br/>
 
+- 🍕 Pizza is a food group.
+
 One of my first and still favorite proffesional projects was for a talented artist (Trish Cassen). The repo is private but you can view the site at 
 [www.trishcassen.com](https://www.trishcassen.com/)
 <p align='left'></p>
@@ -87,7 +89,7 @@ One of my first and still favorite proffesional projects was for a talented arti
  ## Stats:   
    ![JD's GitHub stats](https://github-readme-stats.vercel.app/api?username=peshwarinaan&show_icons=true&theme=radical)  
    ![JD's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peshwarinaan&theme=radical&layout=compact)
- 
+  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=peshwarinaan&theme=radical" alt="peshwarinaan"  /></p>
    
  
   
