@@ -95,7 +95,7 @@ One of my first and still favorite professional projects was for a talented arti
   <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=peshwarinaan&theme=radical" alt="peshwarinaan"  /></p>
   
   
-  ![](https://visitor-badge.glitch.me/badge?page_id=Davekibh.Davekibh)
+  ![](https://visitor-badge.glitch.me/badge?page_id=peshwarinaan.peshwarinaan)
   
  
   
