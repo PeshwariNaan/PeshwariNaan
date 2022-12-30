@@ -93,7 +93,10 @@ One of my first and still favorite professional projects was for a talented arti
    ![JD's GitHub stats](https://github-readme-stats.vercel.app/api?username=peshwarinaan&show_icons=true&theme=radical)  
    ![JD's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peshwarinaan&theme=radical&layout=compact)
   <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=peshwarinaan&theme=radical" alt="peshwarinaan"  /></p>
-   
+  
+  
+  ![](https://visitor-badge.glitch.me/badge?page_id=Davekibh.Davekibh)
+  
  
   
 
