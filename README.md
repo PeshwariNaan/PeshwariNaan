@@ -8,6 +8,10 @@
 <p align='center'>
   Web Developer
 </p>
+Hi, I'm **Josh** 👋 <br/>
+A former Mechanical Engineer and self taught Web Developer. <br/>
+With a strong focus on JavaScript and React.js, I build, deploy and maintain Front-end and Fullstack apps for proffessional and personal projects. 
+
 
 <p align='left'></p>
 <p align='left'></p>
