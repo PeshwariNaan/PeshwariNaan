@@ -10,7 +10,7 @@
 </p> -->
 Hi, I'm **Josh** 👋 
 <br/><br/>
-A former Mechanical Engineer and self taught Web Developer. <br/>
+🔥 A former Mechanical Engineer and self taught Web Developer. <br/>
 With a strong focus on JavaScript and React.js, I build, deploy and maintain Front-end and Fullstack apps for professional and personal projects utilizing a range of tools and tech.  
 <br/><br/>
 
