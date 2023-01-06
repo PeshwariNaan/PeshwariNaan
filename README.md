@@ -17,10 +17,8 @@ With a strong focus on JavaScript and React.js, I build, deploy and maintain Fro
 *   👀 I’m interested in Web3 and the future of Web Development in relation to how AI and low/no code tech will change the current development landscape.
 *   🧠  I'm learning Typescript and advanced backend and api development with Express, Mongoose and Node.js.
 *   ✉️  You can contact me at [jdbrowne76@proton.me](mailto:jdbrowne76@proton.me)
-*   🍕 Pizza is a food group.
 
-One of my first and still favorite professional projects was for a talented artist (Trish Cassen). The repo is private but you can view the site at 
-[www.trishcassen.com](https://www.trishcassen.com/)
+
 <p align='left'></p>
 <p align='left'></p>
 
