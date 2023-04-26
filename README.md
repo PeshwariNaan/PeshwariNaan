@@ -15,7 +15,7 @@ With a strong focus on JavaScript and React.js, I build, deploy and maintain Fro
 <br/><br/>
 
 *   👀 I’m interested in Web3 and the future of Web Development in relation to how AI and low/no code tech will change the current development landscape.
-*   🧠  Currently I've been focused on getting proficient with typescript and exploring React frameworks such as
+*   🧠  Currently I've been focused on becoming more proficient with Typescript and exploring React frameworks such as
         Next.js and picking up anything and everything I can along the way.
 *   ✉️  You can contact me at [jdbrowne76@proton.me](mailto:jdbrowne76@proton.me)
 
