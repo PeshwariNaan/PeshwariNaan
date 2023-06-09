@@ -11,12 +11,11 @@
 Hi, I'm **Josh** 👋 
 <br/><br/>
 
-With a strong focus on JavaScript and React.js, I build, deploy and maintain Front-end and Fullstack apps for professional and personal projects utilizing a range of tools and tech.  
+With a strong focus on JavaScript and React.js and related frameworks, I build, deploy and maintain Front-end and Fullstack apps for professional and personal projects utilizing a range of tools and tech.  
 <br/><br/>
 
-*   👀 I’m interested in Web3 and the future of Web Development in relation to how AI and low/no code tech will change the current development landscape.
-*   🧠  Currently I've been focused on becoming more proficient with Typescript and exploring React frameworks such as
-        Next.js and picking up anything and everything I can along the way.
+*   👀 I’m interested in Web3 and the future of Web Development in relation to how AI and low/no code tech will change the current development landscape. Also wondering if the people putting out all these crazy articles about AI and the extinction of the human race are using AI to write their articles.
+*   🧠  Currently I've been focused on developing apps with Next.js and trying to level up my TypeScript skills.  
 *   ✉️  You can contact me at [jdbrowne76@proton.me](mailto:jdbrowne76@proton.me)
 
 
