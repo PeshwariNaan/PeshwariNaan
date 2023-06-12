@@ -94,7 +94,7 @@ With a strong focus on JavaScript and React.js and related frameworks, I build, 
   <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=peshwarinaan&theme=radical" alt="peshwarinaan"  /></p>
   
   
-  ![](https://visitor-badge.glitch.me/badge?page_id=peshwarinaan.peshwarinaan)
+
   
  
   
