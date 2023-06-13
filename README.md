@@ -89,7 +89,7 @@ With a strong focus on JavaScript and React.js and related frameworks, I build, 
   <br>
   
  ## 📊 Stats:   
-   ![JD's GitHub stats](https://github-readme-stats.vercel.app/api?username=peshwarinaan&show_icons=true&theme=radical)  
+    
    ![JD's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peshwarinaan&theme=radical&layout=compact)
   <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=peshwarinaan&theme=radical" alt="peshwarinaan"  /></p>
   
