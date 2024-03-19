@@ -16,7 +16,7 @@ With a strong focus on Typescript / JavaScript and React.js, I build, deploy and
 
 *   👀 I’m interested in Web3 and the future of Web Development in relation to how AI and low/no code tech will change the current development landscape. 
 *   🧠  Currently I've been focused on developing apps with Next.js.  
-*   ✉️  You can contact me at [here](mailto:jdbrowne24@pm.me)
+*   ✉️  You can contact me [here](mailto:jdbrowne24@pm.me)
 
 
 <p align='left'></p>
